@@ -2,3 +2,5 @@ STORE "pemesanan makanan"
 STORE "harga" 
 STORE "Total"
 STORE "Harga akhir"
+
+END 
