@@ -7,8 +7,7 @@
  - Flowchart.drawio
  - README.md 
  - pseudocode.txt
- - Algoritma.txt 
+ -  
 
  Di kerjakan oleh siapa :
  - 'Kirsten nia - BE2679190
- 
